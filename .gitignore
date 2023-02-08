@@ -6,7 +6,5 @@ jsconfig.json
 
 react-codemod
 gh-pages/
-dist
-build
 *.log
 storybook-static
